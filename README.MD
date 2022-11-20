@@ -15,3 +15,5 @@ To execute the tests, enter ```npm test``` in the terminal.
 
 # Report
 There is spec report available in the terminal. There is also a test-report.html that will be generated after running the tests which will include a failure message for each failed test if any. To open the report, run ```open test-report.html``` in terminal after the test.
+
+# [API Automation Repo Link](https://github.com/markconanan/apiAutomation)
