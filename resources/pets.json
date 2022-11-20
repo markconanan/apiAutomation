@@ -1,0 +1,6 @@
+{
+    "validPetID": 2022,
+    "invalidPetID": 2021121,
+    "password":"Monday123.",
+    "invalidPassword": "111"
+}
