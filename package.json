@@ -1,13 +1,13 @@
 {
   "name": "api-automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automation using jest and supertest",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "Mark Conanan",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.3.1",

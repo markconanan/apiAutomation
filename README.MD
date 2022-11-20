@@ -14,4 +14,4 @@ To run the tests, clone or download the zip of this repo then install the node m
 To execute the tests, enter ```npm test``` in the terminal. 
 
 # Report
-There is spec report available in the terminal. There is also a test-report.html that will be generated after running the tests.
+There is spec report available in the terminal. There is also a test-report.html that will be generated after running the tests which will include a failure message for each failed test if any. To open the report, run ```open test-report.html``` in terminal after the test.

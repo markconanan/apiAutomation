@@ -3,6 +3,7 @@ const id = require("../components/Generator.js")
 
 describe('Petstore Suite', () => {
 
+    //generate the petID to be used for the add, update and delete tests
     const petID = parseInt(id.randomID())
 
     //verifies responses for add new pet endpoint and creates a petID to be used for the rest of the tests
